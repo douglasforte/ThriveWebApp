@@ -1,0 +1,58 @@
+﻿@using ThriveWebApp.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+
+    <h3>
+        Beautifully designed and eco-friendly, Thrive cases are the world’s first truly sustainable phone case.
+        They are durable enough to protect your phone from drops and scratches and are also 100% compostable!
+        As part of our mission to create a waste free future,
+        Thrive is a proud member of 1% for the Planet so we can support organizations who are working hard to better the planet.
+    </h3>
+    <table border="1">
+        <tr>
+            <th>Elephant</th>
+            <th>Paper</th>
+            <th>Gear</th>
+        </tr>
+        <tr>
+                
+            <td><img alt="case1" src="~/Content/Images/case1.png" style="width: 80%" style="height: 30%" position="center" style="align-items:center"/></td>
+            <td><img alt="case2" src="~/Content/Images/case2.png" style="width: 80%" style="height: 30%" position="center" style="align-items:center"/></td>
+            <td><img alt="case3" src="~/Content/Images/case3.png" style="width: 80%" style="height: 30%" position="center" style="align-items:center" /></td>
+        </tr>
+    </table>
+    @*<div id="img_box">
+        
+    </div>*@
+    
+
+    @using (Html.BeginForm("Index", "PhoneCase", FormMethod.Post))
+    {
+        <p>
+            @Html.ValidationSummary(false, "", new { @class = "error" })
+        </p>
+       
+        <p>
+            Product Name: @Html.DropDownList("phoneCaseName", new SelectList(Enum.GetValues(typeof(ProductNameEnum))), new { style = "width:160px" })
+        </p>
+
+        <p>
+            Product Model: @Html.DropDownList("productModel", new SelectList(Enum.GetValues(typeof(ProductModelEnum))), new { style = "width:160px" })
+        </p>
+
+        <p>
+            Quantity: @Html.DropDownList("quantity", new SelectList(Enum.GetValues(typeof(ProductQuantityEnum))), new { style = "width:160px" })
+        </p>
+
+        <p>
+            <input type="submit" value="Reserve" />
+        </p>
+
+        <br class="clear" />
+
+    }
+
+</div>

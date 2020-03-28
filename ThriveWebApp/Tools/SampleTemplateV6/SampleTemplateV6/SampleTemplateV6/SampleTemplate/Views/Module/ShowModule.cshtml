@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "ShowModule";
+}
+
+<h2>Show Module Details</h2>
+<h3>Course Title: @Model.CourseTitle</h3>
+<h3>Title: @Model.ModuleTitle</h3>
+<h4>Code: @Model.ModuleCode</h4>
+<h4>Contact Hours: @Model.Hours</h4>
+<h3>Syllabus</h3>
+@foreach(var item in Model.Syllabus)
+{
+    <h4>@item.Heading</h4>@model SampleTemplate.Models.Module
+
+    <p>@item.Description</p>
+}
+
+@Html.ActionLink("Back to Staff Page","Index","Staff")

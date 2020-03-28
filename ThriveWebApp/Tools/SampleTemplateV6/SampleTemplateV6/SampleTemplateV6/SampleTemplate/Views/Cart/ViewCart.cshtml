@@ -1,0 +1,48 @@
+﻿@model IEnumerable<SampleTemplate.Models.ItemModel>
+@{
+    ViewBag.Title = "ViewCart";
+}
+@section Logged{
+    @if(Session["name"]== null)
+    {
+        Response.Redirect(Url.Action("Login","User"));
+    }
+ }
+<h2>View Cart</h2>
+<table border="1">
+  <tr>
+      <th>Item Code</th>
+      <th>Title</th>
+      <th>Quantity</th>
+      <th>Price</th>
+      <th>Change Order</th>
+    </tr> 
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ItemId</td>
+            <td>@item.Title</td>
+            <td>@item.Quantity</td>
+            <td>@item.TotalPrice</td>
+            <td>
+                @using (Html.BeginForm("RemoveItem", "Cart", FormMethod.Post))
+                {
+                  <input type="text" name="id" value=@item.ItemId hidden />
+                   <input type="submit" value="Remove" />
+
+                }
+            </td>
+        </tr> 
+    }
+ </table>
+<p>Total Price: @ViewBag.TransactionPrice</p>
+@using (Html.BeginForm("ClearAll", "Cart", FormMethod.Post))
+{
+   <p> <input type="submit" value="Clear All" /></p>
+
+}
+@using (Html.BeginForm("CheckOut", "Cart", FormMethod.Post))
+{
+    <p><input type="submit" value="Checkout" /></p>
+
+}

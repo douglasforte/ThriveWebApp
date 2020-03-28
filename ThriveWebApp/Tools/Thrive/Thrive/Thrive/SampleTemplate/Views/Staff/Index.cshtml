@@ -1,0 +1,28 @@
+﻿</a>
+@{
+    ViewBag.Title = "Index";
+}
+@section logged{
+    @if (Session["name"] == null || Session["name"].ToString() != "Staff")
+    {
+        Response.Redirect(Url.Action("Login", "User"));
+    }
+}
+<h2>Staff Page</h2>
+@Session["message"]
+<p>
+    @Html.ActionLink("Add a Course", "Index", "Course")
+</p>
+<p>
+    @Html.ActionLink("Add a Module", "Index", "Module")
+</p>
+<p>
+    @Html.ActionLink("Show all Courses", "ShowAll", "Course")
+</p>
+<p>
+    @Html.ActionLink("Find a Module", "FindModule", "Module")
+</p>
+<p>
+    @Html.ActionLink("Show User Feedback", "ShowFeedback", "Contact")
+</p>
+

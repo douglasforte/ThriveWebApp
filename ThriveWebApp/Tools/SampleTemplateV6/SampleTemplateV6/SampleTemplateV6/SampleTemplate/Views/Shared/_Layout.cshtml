@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+   <link rel="stylesheet" type="text/css" href="~/Content/Styles.css" />
+
+</head>
+<body>
+    <div id="wrapper">
+   <header>
+       <img alt="logo" src="~/Content/Images/logo.gif" class="right" />
+       <h1>Welcome to My Site - Learning is Fun</h1>
+        @RenderPage("LoginRegister.cshtml")
+       @RenderSection("logged",false)
+   </header>
+        <nav>
+            <ul>
+                @*Home is text to be visible, Index is the ActionResult and Home is the Controller*@
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li>@Html.ActionLink("Books", "Index", "Book")</li>
+                <li>@Html.ActionLink("Courses", "ShowAll", "Course")</li>
+                <li>
+                    @Html.ActionLink("Quizes", "Index", "Quiz")
+                    <ul>
+                        <li>@Html.ActionLink("C# Quiz", "CSharpQuiz", "Quiz")</li>
+                        <li>@Html.ActionLink("ASP.NET Quiz", "ASPQuiz", "Quiz")</li>
+                        <li>@Html.ActionLink("Java Quiz", "JavaQuiz", "Quiz")</li>
+                    </ul>
+                 </li>
+                <li>@Html.ActionLink("About Us", "Index", "About")</li>
+                <li>@Html.ActionLink("Contact Us", "Index", "Contact")</li>
+                <li>@Html.ActionLink("Shopping Cart", "ViewCart", "Cart")</li>
+            </ul>
+        </nav>
+        <main>
+            @RenderBody()
+           
+        </main>
+   
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Dublin Business School.</p>
+            <hr />
+        </footer>
+    </div>
+
+</body>
+</html>

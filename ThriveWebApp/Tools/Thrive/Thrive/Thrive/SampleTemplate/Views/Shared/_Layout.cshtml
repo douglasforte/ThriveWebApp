@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Thrive</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/styles.css" />
+    @RenderSection("css", false)
+</head>
+<body>
+    <div id="login">
+        <ul2>
+            @RenderPage("LoginRegister.cshtml")
+
+            @RenderSection("logged", false)
+        </ul2>
+    </div>
+
+    <div id="wrapper">
+        <header>
+            <a href="http://localhost:51811/"><img width="330" height="100" src="~/Content/Images/logo.png" alt="logo" /></a>
+
+   
+
+
+
+        </header>
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li>
+                    @Html.ActionLink("Shop", "Index", "Shop")
+                    <ul>
+                        <li>@Html.ActionLink("Iphone 7", "Iphone7", "Shop")</li>
+                        <li>@Html.ActionLink("Iphone 8", "Iphone8", "Shop")</li>
+                        <li>@Html.ActionLink("Iphone XR", "Iphonexr", "Shop")</li>
+                    </ul>
+                </li>
+                <li>@Html.ActionLink("FAQ", "Index", "FAQ")</li>
+                <li>@Html.ActionLink("Rules", "Index", "Rules")</li>
+                <li>@Html.ActionLink("About", "Index", "About")</li>
+                <li>@Html.ActionLink("Contact", "Index", "Contact")</li>
+                <li>@Html.ActionLink("Shopping Cart", "ViewCart", "Cart")</li>
+
+
+            </ul>
+            <br />
+
+        </nav>
+        <br />
+        <main>
+            @RenderBody()
+        </main>
+
+        <footer id="signature">
+            <p>Thrive &copy; @DateTime.Now.Year - Thank you for your visit</p>
+
+            <a href="http://localhost:51811/Contact"><img width="100" height="30" src="~/Content/Images/logo.png" alt="logo" class="right" /></a>
+        </footer>
+
+    </div>
+
+
+
+</body>
+</html>

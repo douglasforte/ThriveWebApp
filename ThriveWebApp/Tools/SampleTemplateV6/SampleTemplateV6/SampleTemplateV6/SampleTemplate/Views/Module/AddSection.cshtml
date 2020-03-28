@@ -1,0 +1,35 @@
+﻿@model SampleTemplate.Models.Section
+@{
+    ViewBag.Title = "AddSection";
+}
+@section logged{
+    @if (Session["name"] == null || Session["name"].ToString() != "Staff")
+    {
+        Response.Redirect(Url.Action("Login", "User"));
+    }
+     }
+    <h2>Add a Section</h2>
+    @ViewData["message"]
+    @using (Html.BeginForm("AddSection", "Module", FormMethod.Post))
+    {
+        <p>
+            @Html.ValidationSummary(false, "", new { @class = "error" })
+        </p>
+        <p>
+            <span class="newline">@Html.LabelFor(s => s.Heading)</span>
+            @Html.EditorFor(s => s.Heading)
+        </p>
+        <p>
+            <span class="newline">@Html.LabelFor(s => s.Description)</span>
+            @Html.EditorFor(s => s.Description)
+        </p>
+        <p>
+            <input type="submit" value="Add Section" />
+        </p>
+        <p>
+            <em>If the all the sections are added and syllabus is completed, click on "Module Completed" link.</em>
+        <span>@Html.ActionLink("Module Compeleted","CompleteModule","Module") | 
+            @Html.ActionLink("Back to Module Page","Index","Module") | 
+            @Html.ActionLink("Back to Staff Page","Index","Staff")</span>
+        </p>
+    }

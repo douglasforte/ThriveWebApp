@@ -1,0 +1,16 @@
+﻿
+@if (Session["name"] != null)
+{
+    <span>@Session["name"], Welcome to your account</span>
+    <span>@Html.ActionLink("Logout", "Logout", "User", null, new { @class = "register" })</span>
+}
+
+else
+
+{
+    @Html.ActionLink("Register", "Index", "User", null, new { @class = "register" })
+    @Html.ActionLink(" or Login ", "Login", "User", null, new { @class = "register" })
+}
+
+
+

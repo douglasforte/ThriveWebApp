@@ -1,0 +1,178 @@
+﻿#login {
+    font: bolder 110% Courier New;
+    background-color: white;
+    color: black;
+    text-align: right;
+    margin-right: 300px;
+}
+
+#wrapper {
+    width: 70%;
+    margin: 0 auto;
+    padding: 0;
+    height: auto;
+}
+
+
+header {
+    height: 80px;
+    font: bold 110% Courier New;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+
+.right {
+    float: inherit;
+    margin: 05px;
+}
+
+
+nav {
+    height: 40px;
+    font: bold 150% Courier New;
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 35px;
+    
+}
+
+    nav ul {
+        list-style-type: none;
+        margin-right: 70px;
+        padding: 10px;
+    }
+
+        nav ul li {
+            display: inline;
+            margin-left: 12px;
+            margin-right: 12px;
+        }
+
+            nav ul li a:link {
+                color: black;
+                display: inline-block;
+                text-decoration: none;
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+
+            nav ul li a:visited {
+                color: #3F434F;
+            }
+
+
+    nav li ul {
+        display: none;
+        position: inherit;
+        background-color: whitesmoke;
+        text-align: center;
+        line-height: 10px;
+        opacity: 0.8;
+        border-radius: 10px;
+    }
+
+    nav li:hover ul {
+        display: inline-block;
+        position: inherit;
+        text-align: center;
+        padding: 20px;
+        text-decoration: none;
+        background-color: whitesmoke;
+        border-radius: 5px;
+    }
+
+    nav li:hover {
+        color: white;
+        background-color: lightskyblue;
+        padding: 20px;
+        border-radius: 7px;
+    }
+
+main {
+    background-color: white;
+    color: black;
+    font: normal 100% Courier New;
+    min-height: 500px;
+    height: auto;
+    padding: 10px;
+}
+
+
+footer {
+    font: bold 100% Courier New;
+    text-align: center;
+    margin-top: 16px;
+    position: inherit;
+}
+
+
+
+.container {
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    position: center;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+input[type=submit] {
+    background-color: white;
+    color: black;
+    font: bold 110% Courier New;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    position: center;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+select[id=county] {
+    font: normal 100% Courier New;
+}
+
+textarea[id=subject] {
+    height: 300px
+}
+
+input[type=submit]:hover {
+    background-color: black;
+    color: white;
+}
+@media screen and (max-width : 760px) {
+    nav {
+        height: 20px;
+        font: normal 70% Courier New;
+        background-color: whitesmoke;
+        text-align: center;
+        border-radius: initial;
+    }
+        nav li:hover {
+            color: white;
+            background-color: lightskyblue;
+            padding: initial;
+            border-radius: inherit;
+        }
+    ul {
+        position:page;
+        
+    }
+   
+    li {
+        margin-bottom: 1px;
+    }
+}
+        
+    
+    

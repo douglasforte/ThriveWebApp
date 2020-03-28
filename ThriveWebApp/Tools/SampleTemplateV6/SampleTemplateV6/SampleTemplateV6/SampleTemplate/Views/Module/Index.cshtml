@@ -1,0 +1,42 @@
+﻿@model SampleTemplate.Models.Module
+@{
+    ViewBag.Title = "Index";
+}
+@section logged{
+    @if (Session["name"] == null || Session["name"].ToString() != "Staff")
+    {
+        Response.Redirect(Url.Action("Login", "User"));
+    }
+}
+<h2>Add a Module</h2>
+@Session["mod_message"]
+@using (Html.BeginForm("AddModule", "Module", FormMethod.Post))
+{
+    <p>
+        @Html.ValidationSummary(false, "", new { @class = "error" })
+        <em>If a module already exists, do not use this link to add a section.</em>
+    </p>
+    <p>
+        <span class="newline"> @Html.LabelFor(m => m.CourseTitle)</span>
+        @Html.DropDownListFor(m => m.CourseTitle, new SelectList((List<string>)ViewData["titles"]))
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(m => m.ModuleCode)</span>
+        @Html.TextBoxFor(m => m.ModuleCode)
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(m => m.ModuleTitle)</span>
+        @Html.TextBoxFor(m => m.ModuleTitle)
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(m => m.Hours)</span>
+        @Html.TextBoxFor(m => m.Hours)
+    </p>
+    <p>
+        <input type="submit" value="Add Syllabus" />
+    </p>
+    <p>
+        @Html.ActionLink("Back to Staff Page", "Index", "Staff")
+    </p>
+}
+

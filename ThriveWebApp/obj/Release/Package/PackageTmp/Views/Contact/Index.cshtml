@@ -1,0 +1,36 @@
+﻿@model ThriveWebApp.Models.Contact
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Contact Us</h2>
+<h3>Your feedback is important for us to improve.</h3>
+@using (Html.BeginForm("Index", "Contact", FormMethod.Post))
+{
+    <p>
+        @Html.ValidationSummary(false, "", new { @style = "color:red" })
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(c => c.Name)&nbsp;(Optional)</span>
+        @Html.TextBoxFor(c => c.Name)
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(c => c.Email)</span>
+        @Html.TextBoxFor(c => c.Email)
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(c => c.Comments)</span>
+        @Html.TextAreaFor(c => c.Comments, new { @rows = 4, @cols = 50 })
+    </p>
+    <p>
+        <input type="submit" value="Submit" />
+    </p>
+}
+
+
+
+
+
+
+
+

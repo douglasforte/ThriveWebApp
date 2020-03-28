@@ -1,0 +1,39 @@
+﻿@model IEnumerable<SampleTemplate.Models.Course>
+@{
+                /**/
+
+                ViewBag.Title = "ShowAll";
+}
+@*@section logged{
+
+    @if (Session["name"] == null || Session["name"].ToString() != "Staff")
+    {
+        Response.Redirect(Url.Action("Login", "User"));
+    }
+}*@
+
+<h2>All Courses</h2>
+@if (Model == null)
+{
+    <h3>Error! No courses</h3>
+}
+else
+{
+    foreach(var item in Model)
+    {
+        <h3>@item.Title</h3>
+        <h4>@item.CourseCode</h4>
+        <h4>@item.Type</h4>
+        <h4>Price: €@item.Price</h4>
+        <p>
+            @using (Html.BeginForm("AddCourse","Cart", FormMethod.Post))
+            {
+            <input type="text" name="code" value="@item.CourseCode" hidden />
+                <input type="submit" value="Add to Cart" />
+            }
+        </p>
+    }
+}
+@Html.ActionLink("Staff Page","Index","Staff")
+
+

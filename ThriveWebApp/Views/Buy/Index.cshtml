@@ -1,0 +1,39 @@
+﻿@model ThriveWebApp.Models.Contact
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+
+    <br />
+
+
+    <h3>Need to talk to us? Please fill the form bellow and our staff will contact you in 24 hours</h3>
+
+
+    <p>
+        @Html.ValidationSummary(false, "", new { @style = "color:red" })
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(c => c.Name)</span>
+        @Html.TextBoxFor(c => c.Name)
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(c => c.Email)</span>
+        @Html.TextBoxFor(c => c.Email)
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(c => c.Comments)</span>
+        @Html.TextAreaFor(c => c.Comments, new { @rows = 4, @cols = 50 })
+    </p>
+    <p>
+        <input type="submit" value="Submit" />
+    </p>
+
+</div>
+
+
+
+
+
+

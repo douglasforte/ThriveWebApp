@@ -1,0 +1,96 @@
+﻿#wrapper{
+    width:70%;
+    margin:0 auto;
+    padding:0;
+}
+
+header{
+    height:100px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:15px;
+    padding-bottom:10px;
+    background-color:green;
+    color:white;
+}
+.right{
+    float:right;
+    margin:5px;
+}
+
+footer{
+    text-align:center;
+}
+
+nav{
+    height:25px;
+    background-color:lightgreen;
+    padding-top:0.5px;
+    padding-bottom:15px;
+    /*color:darkslateblue;*/
+}
+
+nav ul{
+    list-style-type:none;
+}
+
+nav ul li{
+    display:inline;
+    margin-left:10px;
+}
+
+nav ul li a:link{
+    color:darkslategray;
+    text-decoration:none;
+}
+
+nav ul li a:visited{
+    color:red;
+}
+/*Styling second level list*/
+nav li ul{
+    display:none;
+    position:absolute;
+}
+nav li:hover ul{
+    display:block;
+}
+
+ 
+
+nav li:hover{
+    background-color:goldenrod;
+}
+
+main{
+    color:darkslategray;
+    border:2px solid darkgray;
+    border-radius:10px;
+    padding:10px;
+    min-height:500px;
+    height:auto;
+}
+
+.newline::after{
+    content:"\A";
+    white-space:pre;
+}
+
+.clear{
+    clear:both;
+}
+
+.error {
+    color:red;
+}
+
+.register{
+    float:right;
+    padding-right:5px;
+}
+.register:link{
+    color:white;
+}
+.register:visited{
+    color:lightgoldenrodyellow;
+}

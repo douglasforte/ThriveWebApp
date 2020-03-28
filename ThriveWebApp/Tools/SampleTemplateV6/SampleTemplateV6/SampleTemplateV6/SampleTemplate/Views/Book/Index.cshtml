@@ -1,0 +1,37 @@
+﻿@model IEnumerable<SampleTemplate.Models.Book>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Books in Stock</h2>
+<div>
+
+    @foreach (var book in Model)
+    {
+        using (Html.BeginForm("AddBook", "Cart", FormMethod.Post))
+        {
+            <section style="width:600px;">
+                <img alt="@book.BookImage" src="~/Content/Images/@book.BookImage" width="200" height="200" class="right" />
+
+                <p>
+                    <h3>@book.Title</h3>
+                    <span class="newline">by @book.Publisher</span>
+                    <span class="newline">ISBN: @book.ISBN</span>
+                    <span class="newline">Publication Date: @book.PublicationDate</span>
+                    <span class="newline">Price: €@book.Price</span>
+                    <span class="newline">
+                        Quantity: @Html.DropDownList("quantity", new SelectList((List<int>)ViewBag.Quantity))
+
+                    </span>
+                    <p>
+                    <input type="text" name="isbn" value="@book.ISBN" hidden />
+                    <input type="submit" value="Add to cart" />
+                </p>
+                    </p>
+                <br class="clear" />
+            </section>
+
+            <hr />
+        }
+    }
+</div>

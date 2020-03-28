@@ -1,0 +1,207 @@
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.dll.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.exe
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.exe.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.rsp
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.exe
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.exe.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.rsp
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.AppContext.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Collections.Immutable.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Console.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Compression.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.FileSystem.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Pipes.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Reflection.Metadata.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.AccessControl.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Claims.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.ValueTuple.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XPath.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.exe
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.exe.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.rsp
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\VBCSCompiler.exe
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\VBCSCompiler.exe.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.Web.Infrastructure.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Helpers.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Mvc.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Razor.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Deployment.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Razor.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Razor.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Deployment.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Razor.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Helpers.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Mvc.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csprojAssemblyReference.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csproj.CoreCompileInputs.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csproj.CopyComplete
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.pdb
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.dll.config
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.pdb
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.exe
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.exe.config
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.rsp
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.exe
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.exe.config
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.rsp
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Console.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.exe
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.rsp
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Helpers.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Mvc.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Razor.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Razor.xml
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.xml
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Helpers.xml
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Mvc.xml
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csprojAssemblyReference.cache
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csproj.CopyComplete
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.dll
+C:\Users\Douglas Forte\Downloads\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.pdb
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.dll.config
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\ThriveWebApp.pdb
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.exe
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.exe.config
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csc.rsp
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.exe
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.exe.config
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\csi.rsp
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Console.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.exe
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\vbc.rsp
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Helpers.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Mvc.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Razor.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Razor.xml
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.xml
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Helpers.xml
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\System.Web.Mvc.xml
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csprojAssemblyReference.cache
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.csproj.CopyComplete
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.dll
+C:\Users\Douglas Forte\Downloads\Thrive\ThriveWebApp\ThriveWebApp\ThriveWebApp\ThriveWebApp\obj\Release\ThriveWebApp.pdb

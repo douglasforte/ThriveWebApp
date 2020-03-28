@@ -1,0 +1,38 @@
+﻿@model SampleTemplate.Models.UserModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+<div>
+    @using (Html.BeginForm("Register", "User", FormMethod.Post))
+    {
+        <p>
+            @Html.ValidationSummary(false, "", new { @class = "error" })
+        </p>
+        <p>
+            <span class="newline"> @Html.LabelFor(u => u.FirstName)</span>
+            @Html.TextBoxFor(u => u.FirstName)
+        </p>
+        <p>
+            <span class="newline"> @Html.LabelFor(u => u.LastName)</span>
+            @Html.TextBoxFor(u => u.LastName)
+        </p>
+        <p>
+            <span class="newline"> @Html.LabelFor(u => u.Email)</span>
+            @Html.TextBoxFor(u => u.Email)
+        </p>
+        <p>
+            <span class="newline"> @Html.LabelFor(u => u.Password)</span>
+            @Html.PasswordFor(u => u.Password)
+        </p>
+        <p>
+            <span class="newline"> @Html.LabelFor(u => u.ConfirmPassword)</span>
+            @Html.PasswordFor(u => u.ConfirmPassword)
+        </p>
+        <p>
+            <input type="submit" value="Register" />
+        </p>
+    }
+</div>
+

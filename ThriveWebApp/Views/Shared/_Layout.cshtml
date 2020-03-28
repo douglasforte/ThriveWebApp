@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Thrive</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/styles.css" />
+    @RenderSection("css", false)
+</head>
+<body>
+    <div id="login">
+        <ul2>
+            @RenderPage("LoginRegister.cshtml")
+
+            @RenderSection("logged", false)
+        </ul2>
+    </div>
+
+    <div id="wrapper">
+        <header>
+            <a href="/home"><img width="330" height="100" src="~/Content/Images/logo.png" alt="logo" /></a>
+
+
+        </header>
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li> @Html.ActionLink("Shop", "Index", "PhoneCase")</li>
+                <li>@Html.ActionLink("FAQ", "Index", "FAQ")</li>
+                <li>@Html.ActionLink("Rules", "Index", "Rules")</li>
+                <li>@Html.ActionLink("About", "Index", "About")</li>
+                <li>@Html.ActionLink("Contact", "Index", "Contact")</li>
+            </ul>
+            <br />
+
+        </nav>
+     
+        <br />
+        <main>
+            @RenderBody()
+        </main>
+
+        <footer id="signature">
+            
+
+            <a href="/Contact"><img width="1100" height="200" src="~/Content/Images/footer.png" alt="logo"  /></a>
+            <p>Thrive &copy; @DateTime.Now.Year - Thank you for your visit</p>
+        </footer>
+
+    </div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+﻿@model SampleTemplate.Models.Course
+@{
+    /**/
+
+    ViewBag.Title = "Index";
+}
+@section logged{
+
+    @if (Session["name"] == null || Session["name"].ToString() != "Staff")
+        {
+            Response.Redirect(Url.Action("Login", "User"));
+        }
+    }
+
+<h2>Create a Course</h2>
+@using (Html.BeginForm("CreateCourse", "Course", FormMethod.Post))
+{
+    <p>
+        @Html.ValidationSummary(false, "", new { @class = "error" })
+    </p>
+    <p>
+        <span class="newline"> @Html.LabelFor(c => c.CourseCode)</span>
+        @Html.TextBoxFor(c => c.CourseCode)
+    </p>
+    <p>
+        <span class="newline"> @Html.LabelFor(c => c.Title)</span>
+        @Html.TextBoxFor(c => c.Title)
+    </p>
+    <p>
+        <span class="newline"> @Html.LabelFor(c => c.Type)</span>
+        @Html.TextBoxFor(c => c.Type)
+    </p>
+    <p>
+        <span class="newline"> @Html.LabelFor(c => c.Price)</span>
+        @Html.EditorFor(c => c.Price)
+    </p>
+    <p>
+        <input type="submit" value="Submit" />
+
+    </p>
+    <p>@Html.ActionLink("Back to Staff page","Index","Staff")</p>
+}
+

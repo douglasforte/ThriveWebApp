@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@section logged{
+    @if (Session["name"]== null || Session["name"].ToString()== "Staff")
+    {
+        Response.Redirect(Url.Action("Login", "User"));
+    }
+}
+
+<h2>Staff Page</h2>
+@Session["message"]
+
+@*<p>
+    @Html.ActionLink("Show User Orders", "ShowOrder", "PhoneCase")
+</p>*@
+
+<p>
+    @Html.ActionLink("Show User Feedback", "ShowFeedback", "Contact")
+</p>
+

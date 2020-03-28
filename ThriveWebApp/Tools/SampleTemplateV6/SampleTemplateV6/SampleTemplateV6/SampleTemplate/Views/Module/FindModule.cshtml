@@ -1,0 +1,26 @@
+﻿@model SampleTemplate.Models.Module
+@{
+    ViewBag.Title = "FindModule";
+}
+@section logged{
+    @if (Session["name"] == null || Session["name"].ToString() != "Staff")
+    {
+        Response.Redirect(Url.Action("Login", "User"));
+    }
+}
+<h2>Find a Module</h2>
+@using (Html.BeginForm("FindModule", "Module", FormMethod.Post))
+{
+    <p>
+        @Html.ValidationSummary(false, "", new { @class = "error" })
+    </p>
+    <p>
+        <span class="newline">@Html.LabelFor(m => m.ModuleCode)</span>
+        @Html.EditorFor(m => m.ModuleCode)
+    </p>
+    <p>
+        <input type="submit" value="Find Module" />
+    </p>
+}
+@Html.ActionLink("Back to Staff Page", "Index", "Staff")
+

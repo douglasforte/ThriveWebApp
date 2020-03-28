@@ -1,0 +1,115 @@
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.dll.config
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.pdb
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Helpers.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Mvc.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Razor.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Razor.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Razor.xml
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.xml
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Razor.xml
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Helpers.xml
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\bin\System.Web.Mvc.xml
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csprojAssemblyReference.cache
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csproj.CopyComplete
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\obj\Debug\SampleTemplate.dll
+C:\Users\Douglas Forte\Downloads\SampleTemplateV6\SampleTemplateV6\SampleTemplateV6\SampleTemplate\obj\Debug\SampleTemplate.pdb
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.dll.config
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.pdb
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Helpers.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Mvc.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Razor.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Deployment.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Razor.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Razor.xml
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.xml
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Deployment.xml
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Razor.xml
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Helpers.xml
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Mvc.xml
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csprojAssemblyReference.cache
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csproj.CoreCompileInputs.cache
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csproj.CopyComplete
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\SampleTemplate.dll
+C:\Users\deede\Desktop\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\SampleTemplate.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.dll.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\SampleTemplate.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\Microsoft.Web.Infrastructure.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Helpers.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Mvc.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Razor.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Deployment.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Razor.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Razor.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Deployment.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Webpages.Razor.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Helpers.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\bin\System.Web.Mvc.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csprojAssemblyReference.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csproj.CoreCompileInputs.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\Thrive.csproj.CopyComplete
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\SampleTemplate.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\SampleTemplateV6\SampleTemplate\obj\Debug\SampleTemplate.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\SampleTemplate.dll.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\SampleTemplate.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\SampleTemplate.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\Microsoft.Web.Infrastructure.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Helpers.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Mvc.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Razor.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Webpages.Deployment.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Webpages.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Webpages.Razor.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Razor.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Webpages.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Webpages.Deployment.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Webpages.Razor.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Helpers.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\bin\System.Web.Mvc.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\obj\Debug\Thrive.csprojAssemblyReference.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\obj\Debug\Thrive.csproj.CoreCompileInputs.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\obj\Debug\Thrive.csproj.CopyComplete
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\obj\Debug\SampleTemplate.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Downloads\Trive v2 Sunday\Trive v2 (2)1\Thrive\SampleTemplate\obj\Debug\SampleTemplate.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\SampleTemplate.dll.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\SampleTemplate.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\SampleTemplate.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\Microsoft.Web.Infrastructure.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Helpers.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Mvc.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Razor.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Webpages.Deployment.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Webpages.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Webpages.Razor.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Razor.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Webpages.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Webpages.Deployment.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Webpages.Razor.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Helpers.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\bin\System.Web.Mvc.xml
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\obj\Debug\Thrive.csprojAssemblyReference.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\obj\Debug\Thrive.csproj.CoreCompileInputs.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\obj\Debug\Thrive.csproj.CopyComplete
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\obj\Debug\SampleTemplate.dll
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10378710\Desktop\Web and Cloud Application Development\Thrive\Thrive\SampleTemplate\obj\Debug\SampleTemplate.pdb

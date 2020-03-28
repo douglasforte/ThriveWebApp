@@ -1,0 +1,21 @@
+﻿@model IEnumerable<SampleTemplate.Models.ContactModel>
+@{
+    ViewBag.Title = "ShowFeedback";
+}
+@section logged{
+    @if (Session["name"] == null || Session["name"].ToString() != "Staff")
+    {
+        Response.Redirect(Url.Action("Login", "User"));
+    }
+}
+<h2>User Contact</h2>
+@ViewData["message"]
+@foreach (var item in Model)
+{
+    <section>
+        <h4>@item.Name</h4>
+        <h5>@item.Email</h5>
+        <p>@item.Comments</p>
+        <hr />
+    </section>
+}

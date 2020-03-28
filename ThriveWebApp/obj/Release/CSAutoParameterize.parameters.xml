@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="conString-Web.config Connection String" description="conString Connection String used in web.config by the application to access the database." defaultValue="Data Source=thrivedbs.database.windows.net;Initial Catalog=Thrive;Persist Security Info=True;User ID=Thrive;Password=Adm1234%" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Douglas\ Forte\\Downloads\\Thrive\\ThriveWebApp\\ThriveWebApp\\ThriveWebApp\\ThriveWebApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='conString']/@connectionString" />
+  </parameter>
+</parameters>

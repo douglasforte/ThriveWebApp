@@ -1,0 +1,22 @@
+﻿@model IEnumerable<ThriveWebApp.Models.PhoneCase>
+@{
+    ViewBag.Title = "ShowOrder";
+}
+
+@section logged{
+    @if (Session["name"] == null || Session["name"].ToString() == "Staff")
+    {
+        Response.Redirect(Url.Action("Login", "User"));
+    }
+}
+
+<h2>ShowOrder</h2>
+@foreach (var order in Model)
+{
+    <section>
+        <p>Product Name: <b>@order.PhoneCaseName</b></p>
+        <p>Product Model: <b>@order.ProductModel</b></p>
+        <p> Quantity: @order.Quantity</p>
+        <hr />
+    </section>
+}
